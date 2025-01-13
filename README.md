@@ -1,13 +1,13 @@
-# <ModuleName>
+# {ModuleName}
 
-**<ModuleName>** desciription
+**{ModuleName}** desciription
 
 ---
 
 ## Features
 
-- ...
-- ...
+- feature 1
+- feature 2
 - ...
 
 ---
@@ -23,14 +23,14 @@
 Install the package using pip:
 
 ```bash
-pip install <ModuleName>
+pip install {ModuleName}
 ```
 
 ## Usage
-Here is an example of how to use <ModuleName>:
+Here is an example of how to use {ModuleName}:
 
 ```python
-import <ModuleName>
+import {ModuleName}
 ...
 ```
 ## Output Example
@@ -39,7 +39,7 @@ Example output
 ```
 
 ## How It Works
-<ModuleName> Works like this, for this reason
+{ModuleName} Works like this, for this reason
 
 ## Limitations
 Any limitations
@@ -71,7 +71,7 @@ python examples/example.py
 This project is licensed under the Apache-2.0 License. See the LICENSE file for details.
 
 ## Author
-Developed by <developer>
+Developed by {developer}
 
 ## Acknowledgements
 Thanks to the Python (and ...) development communities for providing tools and resources to make this project possible.
