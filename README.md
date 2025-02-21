@@ -14,7 +14,7 @@
 
 ## Requirements
 
-- Python x or higher
+- Python 3.x (recommended: 3.7 or higher)
 
 ---
 
@@ -52,7 +52,8 @@ To set up a local development environment, follow these steps:
 
 1. Create and activate a virtual environment:
     ```bash
-    python -m venv venv
+    source venv/bin/activate  # macOS/Linux
+    venv\Scripts\activate     # Windows
     venv/Scripts/activate
     ```
 2. Build & install the project
